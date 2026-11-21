@@ -15,8 +15,6 @@ El servidor corre en http://localhost:3000
 |--------|-------------------|---------------|
 | GET    | /productos        | Implementado  |
 | GET    | /productos/:id    | Implementado  |
-| POST   | /productos        | **Por completar** |
-| PUT    | /productos/:id    | **Por completar** |
-| DELETE | /productos/:id    | **Por completar** |
-
-Lee el documento de la práctica para ver los requisitos de cada método.
+| POST   | /productos        | Implementado  |
+| PUT    | /productos/:id    | Implementado  |
+| DELETE | /productos/:id    | Implementado  |
